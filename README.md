@@ -2,7 +2,9 @@ COMPILER DESIGN LAB EXPERIMENTS/PROGRAMS Requirements Python 3.6+ How to Run? In
 
 python ex[exercise-number].py
 
-Experiments List Ex.1 - Lexical Analyzer
+Experiments List:
+
+Ex.1 - Lexical Analyzer
 
 Ex.2 - Regular Expression to NFA
 
